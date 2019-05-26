@@ -1,4 +1,4 @@
-# flipkart_automator
+# flipkartLaptop_Suggestions
 Script for extracting most popular laptops from Flipkart
 
 ## Running
